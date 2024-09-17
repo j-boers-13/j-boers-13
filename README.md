@@ -3,7 +3,7 @@
 ## About Me
 I'm a Full-Stack Ruby on Rails Developer with a passion for building scalable web applications.
 
-I love working with new technologies and 
+I love working with new technologies and software, and like to tinker with new ideas when I have the time.
 
 ## 🛠️ Skills
 - **Languages:** Ruby, JavaScript, Python, C++ and more
