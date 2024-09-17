@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Jeroen 👋
 
-<!--
-**j-boers-13/j-boers-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a Full-Stack Ruby on Rails Developer with a passion for building scalable web applications.
 
-Here are some ideas to get you started:
+I love working with new technologies and 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages:** Ruby, JavaScript, Python, C++ and more
+- **Frameworks:** Ruby on Rails, React, django, express etc.
+- **Databases:** PostgreSQL, redis, MySQL etc.
+
+## 📫 Get in Touch
+- [LinkedIn](https://www.linkedin.com/in/jeroen-boers-2807a3124/)
+- [Email](mailto:jeroen.boers@hotmail.com)
