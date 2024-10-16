@@ -8,7 +8,7 @@ I'm a Full-Stack Ruby on Rails Developer with a passion for creating scalable an
 - Frameworks: Ruby on Rails, React, Django, Express, and others
 - Databases: PostgreSQL, Redis, MySQL, and more
 
-## 🚀 Current Project (In Development)
+## 🚀 Current Side Project (In Development)
 InstaSupport.io — a simple, free way to manage customer support.
 
 https://instasupport.io
